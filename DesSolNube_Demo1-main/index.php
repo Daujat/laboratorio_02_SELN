@@ -39,7 +39,7 @@
 					<li class="active"><a href="#">Home</a></li>
 					<li><a href="about.php">About</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">I NEED MORE POWER <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="sidebar-left.php">Left Sidebar</a></li>
 							<li class="active"><a href="sidebar-right.php">Right Sidebar</a></li>
